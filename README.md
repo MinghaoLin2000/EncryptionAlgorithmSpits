@@ -1,0 +1,1 @@
+Xposed hook java框架层常见加密算法api，实现key和iv以及明文密文的自吐，栈信息的打印
